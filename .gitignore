@@ -1,0 +1,4 @@
+Threading/bin/*
+Threading/obj/*
+
+*.suo
